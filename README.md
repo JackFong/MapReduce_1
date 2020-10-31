@@ -8,5 +8,3 @@
 
 结果如下：
 ![结果表](https://github.com/JackFong/MapReduce_1/blob/main/picture/%E7%BB%93%E6%9E%9C.png)
-
-过程分析：
